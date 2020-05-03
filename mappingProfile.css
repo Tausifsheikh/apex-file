@@ -11,12 +11,12 @@
 }
 
 .THIS .bb{
-       background:#F7F7F7;
+    background:#F7F7F7;
     width:200px;
 }
 .THIS .slds-table{
-       border-top: hidden;
-       border-bottom: hidden;
+    border-top: hidden;
+    border-bottom: hidden;
 }
 .THIS.apex {
-display: none;}
+    display: none;}
